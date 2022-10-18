@@ -1,4 +1,4 @@
-![5](https://user-images.githubusercontent.com/79959361/195421122-314507c6-6ea3-454c-ba68-2ae302deb840.png)
+![1](https://user-images.githubusercontent.com/79959361/196464843-7fa515dc-2397-426c-86f5-498f8089486b.png)
 
 Hola! 👋 My name is Shubhang Gupta
 ==================================
