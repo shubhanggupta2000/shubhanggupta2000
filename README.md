@@ -82,5 +82,3 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
 <a href = "https://twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.facebook.com/shubhang.agarwal.71"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=shubhanggupta2000)
