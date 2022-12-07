@@ -68,9 +68,9 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
 
 <br/>
 <br/>
-
+<!-- 
 <a href="https://github.com/shubhanggupta2000/github-readme-activity-graph"><img alt="Shubhang Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
+</p> -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
