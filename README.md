@@ -68,9 +68,9 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
 
 <br/>
 <br/>
-<!-- 
-<a href="https://github.com/shubhanggupta2000/github-readme-activity-graph"><img alt="Shubhang Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p> -->
+
+[![Shubhang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/shubhanggupta2000/github-readme-activity-graph)
+</p> 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -79,6 +79,6 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
 <a href = "https://www.linkedin.com/in/shubhang-gupta-a081ab201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:guptashubhang2000@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 <a href = "https://www.instagram.com/guptashubhang2000/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/fluent/48/000000/twitter-new.png"/></a>
+<a href = "https://twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.facebook.com/shubhang.agarwal.71"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 </p>
