@@ -9,6 +9,7 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
 
 * 🌍  I'm from Jaipur, Rajasthan, India
 * ✉️  How to Reach me: **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**
+* 👨‍💻 Check out some of my projects on **[myprojects](https://github.com/shubhanggupta2000/myprojects)**
 * 🧠  I'm Currently learning Solidity, Blockchain
 * 🔭  I'm currently working on **Open Source & Backend Dev**
 * 🤝  I'm looking to contributing on unique and interesting projects with great learning opportunities
