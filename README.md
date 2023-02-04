@@ -1,5 +1,3 @@
-![1](https://user-images.githubusercontent.com/79959361/196464843-7fa515dc-2397-426c-86f5-498f8089486b.png)
-
 Hola! 👋 My name is Shubhang Gupta
 ==================================
 
