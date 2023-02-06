@@ -48,11 +48,11 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
     <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="50px" height="50px" /></a>
     <a href="" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50px" height="50px" /></a>
     <a href="" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px" /></a>
+    <a href="https://babeljs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="50px" height="50px" /></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" height="50px" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" height="50px" /></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px" /></a>
+    <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px" /></a>
     
     
 
