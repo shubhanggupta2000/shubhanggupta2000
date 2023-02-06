@@ -35,19 +35,19 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
     <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/79959361/216953467-226de99a-6327-4d03-aebb-bb61cd2537b6.png" width="50px" height="50px" /></a>
     <a href="" target="_blank"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/0f0c764465ee27178b94e026f6d6eafd9c23c09d/logo/logomark-colored.svg" width="50px" height="50px" /></a>
     <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px" height="50px" /></a>
+    <a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px" /></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" height="50px" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px" /></a>
+    <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px" height="50px" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" /></a>
+    <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px" /></a>
+    <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px" height="50px" /></a>
     <a href="" target="_blank"><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="50px" height="50px" /></a>
     <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px" height="50px" /></a>
+    <a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="50px" height="50px" /></a>
+    <a href="https://www.netlify.com/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50px" height="50px" /></a>
+    <a href="https://github.com/features/actions" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px" height="50px" /></a>
     <a href="https://babeljs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="50px" height="50px" /></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" height="50px" /></a>
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" height="50px" /></a>
