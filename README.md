@@ -26,12 +26,12 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" height="50px" /></a>
     <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" /></a>
-    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" height="50px" /></a>
+    <a href="https://soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50px" height="50px" /></a>
+    <a href="https://html5.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" /></a>
+    <a href="https://www.css3.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" /></a>
+    <a href="https://threejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50px" height="50px" /></a>
+    <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" /></a>
+    <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" height="50px" /></a>
     <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/79959361/216953467-226de99a-6327-4d03-aebb-bb61cd2537b6.png" width="50px" height="50px" /></a>
     <a href="" target="_blank"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/0f0c764465ee27178b94e026f6d6eafd9c23c09d/logo/logomark-colored.svg" width="50px" height="50px" /></a>
     <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" height="50px" /></a>
