@@ -9,7 +9,7 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
 * 🌍  I'm from Jaipur, Rajasthan, India
 * ✉️  How to Reach me: **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**
 * 👨‍💻 Check out some of my projects on **[myprojects](https://github.com/shubhanggupta2000/myprojects)**
-* 🧠  I'm Currently learning Solidity, Blockchain
+* 🧠  I'm Currently learning ML, Blockchain
 * 🔭  I'm currently working on **Open Source & Backend Dev**
 * 🤝  I'm looking to contributing on unique and interesting projects with great learning opportunities
 * ⭐  If you like my ☺️ projects, don't forget a star 🌟
@@ -74,7 +74,7 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
   <br/>
 <br/>
 
-[![Shubhang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/shubhanggupta2000/github-readme-activity-graph)
+[![Shubhang's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/shubhanggupta2000/github-readme-activity-graph)
 </p> 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
