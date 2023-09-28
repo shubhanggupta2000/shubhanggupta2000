@@ -4,7 +4,7 @@ Hola! 👋 My name is Shubhang Gupta
 ## 👨🏻‍💻 &nbsp;About Me
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
+I am a pre-final year Student in IIIT Gwalior in Information Technology branch.
 
 * 🌍  I'm from Jaipur, Rajasthan, India
 * ✉️  How to Reach me: **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**
@@ -53,14 +53,6 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" height="50px" /></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px" /></a>
     <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px" /></a>
-    
-    
-
- <p align="center">
-    <a href="https://github.com/shubhanggupta2000/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubhang Gupta's streak" src="[https://github-readme-streak-stats.herokuapp.com?user=shubhanggupta2000&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=shubhanggupta2000&theme=github-dark-blue&hide_border=true)"/>
-    </a>
-</p>
 
 
 <div align="center">
