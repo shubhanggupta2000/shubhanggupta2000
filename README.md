@@ -58,7 +58,7 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
 
  <p align="center">
     <a href="https://github.com/shubhanggupta2000/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubhang Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com?user=shubhanggupta2000&theme=github-dark-blue&hide_border=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubhang Gupta's streak" src="[https://github-readme-streak-stats.herokuapp.com?user=shubhanggupta2000&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=shubhanggupta2000&theme=github-dark-blue&hide_border=true)"/>
     </a>
 </p>
 
@@ -74,7 +74,7 @@ I am a 3rd year Student in IIIT Gwalior in Information Technology branch.
   <br/>
 <br/>
 
-[![Shubhang's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/shubhanggupta2000/github-readme-activity-graph)
+[![Shubhang's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p> 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
