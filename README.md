@@ -73,9 +73,10 @@ I am a pre-final year Student in IIIT Gwalior in Information Technology branch.
 
 ## 📬 My Social
 <p align="center">
+<a href = "https://www.guptashubhang.me/"><img src="https://img.icons8.com/48/000000/globe"/></a>
 <a href = "https://www.linkedin.com/in/shubhang-gupta-a081ab201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:guptashubhang2000@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 <a href = "https://www.instagram.com/guptashubhang2000/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
 <a href = "https://www.facebook.com/shubhang.agarwal.71"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 </p>
