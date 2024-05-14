@@ -4,19 +4,20 @@ Hola! 👋 My name is Shubhang Gupta
 ## 👨🏻‍💻 &nbsp;About Me
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a pre-final year Student in IIIT Gwalior in Information Technology branch.
+I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technology degree 🤓.
 
-* 🌍  I'm from Jaipur, Rajasthan, India
-* ✉️  How to Reach me: **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**
-* 👨‍💻 Check out some of my projects on **[myprojects](https://github.com/shubhanggupta2000/myprojects)**
-* 🧠  I'm Currently learning ML, Blockchain
-* 🔭  I'm currently working on **Open Source & Backend Dev**
-* 🤝  I'm looking to contributing on unique and interesting projects with great learning opportunities
-* ⭐  If you like my ☺️ projects, don't forget a star 🌟
+* 🌍 Hailing from Jaipur, the royal city of Rajasthan, India. 🐫
+* 📬 Reach me at **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**.
+* 👨‍💻 Check out some of my digital cornucopia on **[MyProjects](https://github.com/shubhanggupta2000/myprojects)**.
+* ✍🏼 A little attempt at blogging, which can be found on **[Medium](https://medium.com/@guptashubhang2000)**.
+* 🧠 I'm Currently learning Deep Learning & Cloud Architecture.
+* 🔭 I currently work in **Frontend Dev, Blogging & Python Development**.
+* 🤝 Seeking unique, interesting collabs with prime learning opportunities. 🚀
+* ⭐ If you like my 👍🏻 projects, don't forget a star ⭐
 
 ### 🚀 Languages/Tools:
 
-<p align="center"> 
+<p align="center">
     <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"/> </a>
     <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50px" height="50px"/> </a>
     <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50px" height="50px"/></a>
@@ -26,15 +27,15 @@ I am a pre-final year Student in IIIT Gwalior in Information Technology branch.
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" height="50px" /></a>
     <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px" /></a>
-    <a href="https://soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50px" height="50px" /></a>
+    <a href="https://soliditylang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="50px" height="50px" /></a>
     <a href="https://html5.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" /></a>
     <a href="https://www.css3.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" /></a>
-    <a href="https://threejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50px" height="50px" /></a>
+    <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="50px" height="50px" /></a>
     <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" /></a>
     <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" height="50px" /></a>
     <a href="https://www.framer.com/motion/" target="_blank"><img src="https://user-images.githubusercontent.com/79959361/216953467-226de99a-6327-4d03-aebb-bb61cd2537b6.png" width="50px" height="50px" /></a>
     <a href="https://chakra-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/0f0c764465ee27178b94e026f6d6eafd9c23c09d/logo/logomark-colored.svg" width="50px" height="50px" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" height="50px" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px" /></a>
     <a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px" /></a>
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" height="50px" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" /></a>
@@ -43,9 +44,8 @@ I am a pre-final year Student in IIIT Gwalior in Information Technology branch.
     <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" /></a>
     <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px" /></a>
     <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px" height="50px" /></a>
-    <a href="https://vercel.com/" target="_blank"><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="50px" height="50px" /></a>
-    <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50px" height="50px" /></a>
-    <a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="50px" height="50px" /></a>
+    <a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50px" height="50px" /></a>
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50px" height="50px" /></a>
     <a href="https://www.netlify.com/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50px" height="50px" /></a>
     <a href="https://github.com/features/actions" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px" height="50px" /></a>
     <a href="https://babeljs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="50px" height="50px" /></a>
