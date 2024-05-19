@@ -73,10 +73,11 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 
 ## 📬 My Social
 <p align="center">
-<a href = "https://www.guptashubhang.me/"><img src="https://img.icons8.com/48/000000/globe"/></a>
-<a href = "https://www.linkedin.com/in/shubhang-gupta-a081ab201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:guptashubhang2000@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
-<a href = "https://www.instagram.com/guptashubhang2000/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
-<a href = "https://www.facebook.com/shubhang.agarwal.71"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+  <a href="https://www.guptashubhang.me/"><img src="https://img.icons8.com/color/48/000000/code.png" alt="Portfolio" title="Portfolio"></a>  
+  <a href="https://www.linkedin.com/in/shubhang-gupta-a081ab201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"></a>
+  <a href="mailto:guptashubhang2000@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email" title="Email"></a>
+  <a href="https://www.instagram.com/guptashubhang2000/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" title="Instagram"></a>
+  <a href="https://www.twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png" alt="Twitter" title="Twitter"></a>
+  <a href="https://www.facebook.com/shubhang.agarwal.71"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" title="Facebook"></a>
+  <a href="https://medium.com/@guptashubhang2000"><img src="https://img.icons8.com/color/48/000000/medium.png" alt="Medium" title="Medium"></a>
 </p>
