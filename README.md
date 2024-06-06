@@ -59,15 +59,10 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 
 # 📊 My Github Stats
 
-<p align="center">
-  <br/>
-    <a href="https://github.com/shubhanggupta2000/github-readme-stats"><img alt="Shubhang Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanggupta2000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shubhanggupta2000/github-readme-stats"><img alt="Shubhang Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanggupta2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<br/>
-
+![shubhanggupta2000's Stats](https://github-readme-stats.vercel.app/api?username=shubhanggupta2000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![shubhanggupta2000's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanggupta2000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![shubhanggupta2000's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhanggupta2000&theme=tokyonight&hide_border=true)
 [![Shubhang's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p> 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
