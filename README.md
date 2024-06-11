@@ -1,4 +1,4 @@
-Hola! 👋 My name is Shubhang Gupta
+Hola! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px" height="35px"/> I'm Shubhang Gupta
 ==================================
 
 ## 👨🏻‍💻 &nbsp;About Me
