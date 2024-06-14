@@ -20,6 +20,7 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 <p align="center">
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="50px" height="50px"/> </a>
     <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" width="50px" height="50px"/> </a>
+    <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="50px" height="50px"/> </a>
     <a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/?id=iWw83PVcBpLw&format=png&color=000000" width="50px" height="50px"/></a>
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="50px" height="50px" /></a>
     <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50px" height="50px" /></a>
