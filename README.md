@@ -68,7 +68,7 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 
 ## 📬 My Social
 <p align="center">
-  <a href="https://www.guptashubhang.me/"><img src="https://img.icons8.com/?size=70&id=bLp8jngMI59L&format=png&color=000000" alt="Portfolio" title="Portfolio"></a>  
+  <a href="https://www.guptashubhang.me/"><img src="https://img.icons8.com/?size=70&id=J3nZHWgT1e7m&format=png&color=000000" alt="Portfolio" title="Portfolio"></a>  
   <a href="https://www.linkedin.com/in/shubhang-gupta-a081ab201/"><img src="https://img.icons8.com/?size=70&id=XRDimtpq5vCY&format=png&color=000000" alt="LinkedIn" title="LinkedIn"></a>
   <a href="https://www.instagram.com/guptashubhang2000/"><img src="https://img.icons8.com/?size=70&id=bh8L0hocH1mA&format=png&color=000000" alt="Instagram" title="Instagram"></a>
   <a href="https://www.twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/?size=70&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter" title="Twitter"></a>
