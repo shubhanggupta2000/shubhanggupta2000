@@ -2,7 +2,7 @@ Hola! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px" he
 ==================================
 
 ## 👨🏻‍💻 &nbsp;About Me
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="350" height="350" src="https://cdn.dribbble.com/userupload/12609824/file/original-0ebf1e6c9a64bfe1510cf8d72de99185.gif">
 
 I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technology degree 🤓.
 
