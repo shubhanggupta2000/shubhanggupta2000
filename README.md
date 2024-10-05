@@ -11,7 +11,7 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 * 👨‍💻 Check out some of my digital cornucopia on **[MyProjects](https://github.com/shubhanggupta2000/myprojects)**.
 * ✍🏼 A little attempt at blogging, which can be found on **[Medium](https://medium.com/@guptashubhang2000)**.
 * 🧠 I'm Currently learning Deep Learning & Cloud Architecture.
-* 🔭 I currently work in **Frontend Dev, Blogging & Python Development**.
+* 🔭 I currently work in **Software Dev, Blogging & Python Development**.
 * 🤝 Seeking unique, interesting collabs with prime learning opportunities. 🚀
 * ⭐ If you like my 👍🏻 projects, don't forget a star ⭐
 
