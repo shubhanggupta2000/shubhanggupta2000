@@ -53,6 +53,15 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" height="50px" alt="Django" title="Django" /></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px" alt="Figma" title="Figma" /></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px" alt="Express" title="Express" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" height="50px" alt="TypeScript" title="TypeScript" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" height="50px" alt="Firebase" title="Firebase" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" height="50px" alt="Docker" title="Docker" /></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px" height="50px" alt="Jest" title="Jest" /></a>
+<a href="https://webpack.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50px" height="50px" alt="Webpack" title="Webpack" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" height="50px" alt="Vue.js" title="Vue.js" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px" height="50px" alt="Heroku" title="Heroku" /></a>
+</p>
 
 
 <div align="center">
