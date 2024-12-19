@@ -60,7 +60,6 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 <a href="https://webpack.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50px" height="50px" alt="Webpack" title="Webpack" /></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" height="50px" alt="Vue.js" title="Vue.js" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px" alt="PostgreSQL" title="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px" height="50px" alt="Heroku" title="Heroku" /></a>
 </p>
 
 
@@ -70,7 +69,7 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 
 ![shubhanggupta2000's Stats](https://github-readme-stats.vercel.app/api?username=shubhanggupta2000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![shubhanggupta2000's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanggupta2000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![shubhanggupta2000's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhanggupta2000&theme=tokyonight&hide_border=true)
+![shubhanggupta2000's Streak](https://streak-stats.demolab.com/?user=shubhanggupta2000&theme=tokyonight&hide_border=true)
 [![Shubhang's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
