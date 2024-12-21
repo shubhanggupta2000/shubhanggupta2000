@@ -10,8 +10,8 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 * 📬 Reach me at **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**.
 * 👨‍💻 Check out some of my digital cornucopia on **[MyProjects](https://github.com/shubhanggupta2000/myprojects)**.
 * ✍🏼 A little attempt at blogging, which can be found on **[Medium](https://medium.com/@guptashubhang2000)**.
-* 🧠 I'm Currently learning Deep Learning & Cloud Architecture.
-* 🔭 I currently work in **Software Dev, Blogging & Python Development**.
+* 🧠 I'm Currently learning Cloud Architecture & looking for a FTE.
+* 🔭 I currently work in **Software Dev, Writing, & Full-Stack**.
 * 🤝 Seeking unique, interesting collabs with prime learning opportunities. 🚀
 * ⭐ If you like my 👍🏻 projects, don't forget a star ⭐
 
