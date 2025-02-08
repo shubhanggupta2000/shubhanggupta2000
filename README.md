@@ -73,7 +73,8 @@ I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technol
 [![Shubhang's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 📬 My Social
+
+## 📬 My Digital Footprint
 <p align="center">
   <a href="https://www.guptashubhang.tech/"><img src="https://img.icons8.com/?size=70&id=J3nZHWgT1e7m&format=png&color=000000" alt="Portfolio" title="Portfolio"></a>  
   <a href="https://www.linkedin.com/in/gupta-shubhang/"><img src="https://img.icons8.com/?size=70&id=XRDimtpq5vCY&format=png&color=000000" alt="LinkedIn" title="LinkedIn"></a>
