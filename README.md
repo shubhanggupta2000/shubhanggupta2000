@@ -4,14 +4,14 @@ Hola! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px" he
 ## 👨🏻‍💻 &nbsp;About Me
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-I am a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technology degree 🤓.
+I'm a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technology degree 🤓.
 
 * 🌍 Hailing from Jaipur, the royal city of Rajasthan, India. 🐫
 * 📬 Reach me at **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**.
 * 👨‍💻 Check out some of my digital cornucopia on **[MyProjects](https://github.com/shubhanggupta2000/myprojects)**.
 * ✍🏼 A little attempt at blogging, which can be found on **[Medium](https://medium.com/@guptashubhang2000)**.
-* 🧠 I'm Currently learning Cloud Architecture & looking for a FTE.
-* 🔭 I currently work in **Software Dev, Writing, & Full-Stack**.
+* 🧠 I'm Currently working at **Kfin Technologies** as an SDE Intern.
+* 🔭 I work in **Software Dev, Writing, & Full-Stack**.
 * 🤝 Seeking unique, interesting collabs with prime learning opportunities. 🚀
 * ⭐ If you like my 👍🏻 projects, don't forget a star ⭐
 
