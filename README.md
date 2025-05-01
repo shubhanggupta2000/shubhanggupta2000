@@ -10,7 +10,7 @@ I'm a Student 📚 at IIIT Gwalior, struggling to pursue my Information Technolo
 * 📬 Reach me at **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**.
 * 👨‍💻 Check out some of my digital cornucopia on **[MyProjects](https://github.com/shubhanggupta2000/myprojects)**.
 * ✍🏼 A little attempt at blogging, which can be found on **[Medium](https://medium.com/@guptashubhang2000)**.
-* 🧠 I'm Currently working at **Kfin Technologies** as an SDE Intern.
+* 🧠 I'm Currently working at **Kfin Technologies** as an SWE Intern.
 * 🔭 I work in **Software Dev, Writing, & Full-Stack**.
 * 🤝 Seeking unique, interesting collabs with prime learning opportunities. 🚀
 * ⭐ If you like my 👍🏻 projects, don't forget a star ⭐
