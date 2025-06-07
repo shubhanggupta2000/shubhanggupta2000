@@ -4,7 +4,7 @@ Hola! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px" he
 ## 👨🏻‍💻 &nbsp;About Me
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-I'm an IT graduate from IIITM Gwalior, working as an intern at Kfin Technologies Ltd. 🤓.
+I'm an IT graduate 👨‍🎓 from IIITM Gwalior, working as an intern at Kfin Technologies Ltd. 🤓.
 
 * 🌍 Hailing from Jaipur, the royal city of Rajasthan, India. 🐫
 * 📬 Reach me at **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**.
