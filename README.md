@@ -76,7 +76,7 @@ I'm an IT post-grad 👨‍🎓 from IIIT Gwalior, working as an intern at Kfin 
 
 ## 📬 My Digital Footprint
 <p align="center">
-  <a href="https://www.guptashubhang.tech/"><img src="https://img.icons8.com/?size=70&id=J3nZHWgT1e7m&format=png&color=000000" alt="Portfolio" title="Portfolio"></a>  
+  <a href="https://guptashubhang.vercel.app/"><img src="https://img.icons8.com/?size=70&id=J3nZHWgT1e7m&format=png&color=000000" alt="Portfolio" title="Portfolio"></a>  
   <a href="https://www.linkedin.com/in/gupta-shubhang/"><img src="https://img.icons8.com/?size=70&id=XRDimtpq5vCY&format=png&color=000000" alt="LinkedIn" title="LinkedIn"></a>
   <a href="https://www.instagram.com/guptashubhang2000/"><img src="https://img.icons8.com/?size=70&id=bh8L0hocH1mA&format=png&color=000000" alt="Instagram" title="Instagram"></a>
   <a href="https://www.twitter.com/ShubhangGupta13"><img src="https://img.icons8.com/?size=70&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter" title="Twitter"></a>
