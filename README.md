@@ -11,7 +11,7 @@ I'm an IT post-grad 👨‍🎓 from IIIT Gwalior, working as an intern at Kfin 
 * 👨‍💻 Check out some of my digital cornucopia on **[MyProjects](https://github.com/shubhanggupta2000/myprojects)**.
 * ✍🏼 A little attempt at blogging, which can be found **[here](https://fazeblog.vercel.app/)**.
 * 🧠 I'm Currently working at **Kfin Technologies Ltd.** as an SWE Intern.
-* 🔭 I work in **Software Development, Writing, & Full-Stack**.
+* 🔭 I work as a **Software Developer, & Writer**.
 * 🤝 Seeking unique, interesting collabs with prime learning opportunities. 🚀
 * ⭐ If you like my 👍🏻 projects, don't forget a star ⭐
 
