@@ -10,8 +10,8 @@ I'm a Software Engineer 🤓 at Kfin Technologies Ltd. Graduated 👨‍🎓 fro
 * 📬 Reach me at **[guptashubhang2000@gmail.com](mailto:guptashubhang2000@gmail.com)**.
 * 👨‍💻 Check out some of my digital cornucopia on **[MyProjects](https://github.com/shubhanggupta2000/myprojects)**.
 * ✍🏼 A little attempt at blogging, which can be found **[here](https://fazeblog.vercel.app/)**.
-* 🧠 I'm Currently working at **Kfin Technologies Ltd.** as an SWE Intern.
-* 🔭 I work as a **Software Developer, & Writer**.
+* 🧠 I'm Currently working at **Kfin Technologies Ltd.** as an SWE.
+* 🔭 I work as a **Software Developer & Writer**.
 * 🤝 Seeking unique, interesting collabs with prime learning opportunities. 🚀
 * ⭐ If you like my 👍🏻 projects, don't forget a star ⭐
 
