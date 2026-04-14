@@ -35,8 +35,11 @@ I'm a Software Engineer 🤓 at Kfin Technologies Ltd. Graduated 👨‍🎓 fro
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px" alt="Python" title="Python" /></a>
 <a href="https://html5.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" alt="HTML" title="HTML" /></a>
 <a href="https://www.css3.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" alt="CSS" title="CSS" /></a>
-<!-- Three.js: white logo only (original SVG is white, works on dark; skip light variant per user request) -->
-<a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="50px" height="50px" alt="ThreeJS" title="ThreeJS" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threedotjs/ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/threedotjs/000000">
+  <img width="50px" height="50px" alt="ThreeJS" title="ThreeJS" src="https://cdn.simpleicons.org/threedotjs/000000"/>
+</picture>
 <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" alt="Sass" title="Sass" /></a>
 <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" height="50px" alt="Material UI" title="Material UI" /></a>
 <a href="https://www.framer.com/motion/" target="_blank"><img src="https://user-images.githubusercontent.com/79959361/216953467-226de99a-6327-4d03-aebb-bb61cd2537b6.png" width="50px" height="50px" alt="Framer Motion" title="Framer Motion" /></a>
@@ -48,14 +51,12 @@ I'm a Software Engineer 🤓 at Kfin Technologies Ltd. Graduated 👨‍🎓 fro
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px" alt="Mongo" title="Mongo" /></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px" height="50px" alt="PostMan" title="PostMan" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" alt="Git" title="Git" /></a>
-<!-- GitHub: white on dark, black on light -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/000000">
   <img width="50px" height="50px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/000000"/>
 </picture>
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/?size=70&id=xNOPrIk9lLyq&format=png&color=000000" width="50px" height="50px" alt="Gitlab" title="Gitlab" /></a>
-<!-- Vercel: white on dark, black on light -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/000000">
@@ -66,14 +67,12 @@ I'm a Software Engineer 🤓 at Kfin Technologies Ltd. Graduated 👨‍🎓 fro
 <a href="https://github.com/features/actions" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px" height="50px" alt="Github Actions" title="Github Actions" /></a>
 <a href="https://babeljs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="50px" height="50px" alt="Babel" title="Babel" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" height="50px" alt="Linux" title="Linux" /></a>
-<!-- Django: white on dark, black on light -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/ffffff">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/django/000000">
   <img width="50px" height="50px" alt="Django" title="Django" src="https://cdn.simpleicons.org/django/000000"/>
 </picture>
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px" alt="Figma" title="Figma" /></a>
-<!-- Express: white on dark, black on light -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
