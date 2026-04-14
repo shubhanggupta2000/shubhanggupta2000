@@ -89,9 +89,9 @@ I'm a Software Engineer 🤓 at Kfin Technologies Ltd. Graduated 👨‍🎓 fro
 
 # 📊 My Github Stats
 
-![Shubhang's Stats](https://github-readme-stats.vercel.app/api?username=shubhanggupta2000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Shubhang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanggupta2000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![Shubhang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhanggupta2000&theme=tokyonight&hide_border=true)
+![Shubhang's Stats](https://github-readme-stats.shion.dev/api?username=shubhanggupta2000&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Shubhang's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=shubhanggupta2000&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![Shubhang's Streak](https://streak-stats.demolab.com/?user=shubhanggupta2000&theme=tokyonight&hide_border=true)<br/>
 [![Shubhang's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhanggupta2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
