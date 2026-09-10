@@ -55,7 +55,7 @@ I'm a Software Engineer 🤓 at Kfin Technologies Ltd. Graduated 👨‍🎓 fro
 <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" height="50px" alt="Material UI" title="Material UI" /></a>
 <a href="https://ant.design/" target="_blank"><img src="https://cdn.simpleicons.org/antdesign/0170FE" width="50px" height="50px" alt="Ant Design" title="Ant Design"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/?size=70&id=g9mmSxx3SwAI&format=png&color=000000" width="50px" height="50px" alt="Bootstrap" title="Bootstrap"/></a>
-<a href="https://chakra-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/0f0c764465ee27178b94e026f6d6eafd9c23c09d/logo/logomark-colored.svg" width="50px" height="50px" alt="Chakra" title="Chakra" /></a>
+<a href="https://chakra-ui.com/" target="_blank"><img src="https://cdn.simpleicons.org/chakraui/319795" width="50px" height="50px" alt="Chakra UI" title="Chakra UI"/></a>
 <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" alt="Sass" title="Sass" /></a>
 <a href="https://styled-components.com/" target="_blank"><img src="https://cdn.simpleicons.org/styledcomponents/DB7093" width="50px" height="50px" alt="Styled Components" title="Styled Components"/></a>
 <a href="https://www.framer.com/motion/" target="_blank"><img src="https://user-images.githubusercontent.com/79959361/216953467-226de99a-6327-4d03-aebb-bb61cd2537b6.png" width="50px" height="50px" alt="Framer Motion" title="Framer Motion" /></a>
